@@ -10,4 +10,4 @@ Currently working on perception & understanding algorithms for multi-sensor syst
 
 Interests: data visualization, reverse engineering, and simplifying complexity
 
-目前兴趣方向：数据可视化、逆向工程，复杂的东西简单化 
+目前兴趣方向：AI Agent、数据可视化，将一切复杂的东西简单化 
